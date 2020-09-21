@@ -1,0 +1,1 @@
+gcc test.c /home/pi/test/test1/test11/test121/my_lib1.h /home/pi/test/test1/test11/test122/my_lib2.h -o test
